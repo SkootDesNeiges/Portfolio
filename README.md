@@ -74,7 +74,7 @@ Le programme est technique, complet, et professionnalisant. L’alternance m’a
 
 ### 🔹 Tests de charge avec Locust
 - Génération de trafic pour test de robustesse d’un site web
-- Analyse de la bande passante et des goulets d’étranglement
+- Analyse de la bande passante (perte ou non de paquets...)
 
 ---
 
