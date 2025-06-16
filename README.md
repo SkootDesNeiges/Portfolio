@@ -64,10 +64,6 @@ Le programme est technique, complet, et professionnalisant. L’alternance m’a
 - PHP/MySQL, interface CRUD, rôles, gestion horaires, export
 - Authentification avec session sécurisée
 
-### 🔹 Serveur Minecraft modé (NeoForge)
-- Construction d’une stack modifiée pour aventure/survie
-- Configuration des mods et hébergement
-
 ### 🔹 Tests de charge avec Locust
 - Génération de trafic pour test de robustesse d’un site web
 - Analyse de la bande passante et des goulets d’étranglement
