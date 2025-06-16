@@ -1,8 +1,8 @@
 #  Portfolio – BUT Informatique - Parcours DACDS
 
-**Nom :** [Ton Nom]  
-**Formation :** BUT Informatique – Parcours Déploiement d’Applications Communicantes et Sécurisées (DACDS)  
-**Statut :** Étudiant en 3ᵉ année / Alternant chez [Nom de l’entreprise]
+**Nom :** Papelier Louis  
+**Formation :** BUT Informatique – Parcours Déploiement d’Applications Communicantes et Sécurisées (DACS)  
+**Statut :** Étudiant en 3ᵉ année / Alternant chez Viskase
 
 ---
 
@@ -10,7 +10,7 @@
 
 ###  Objectifs de la formation
 
-Le BUT Informatique, parcours **DACDS**, a pour objectif de former des professionnels capables de **concevoir, déployer et sécuriser des applications et des infrastructures communicantes**.
+Le BUT Informatique, parcours **DACS**, a pour objectif de former des professionnels capables de **concevoir, déployer et sécuriser des applications et des infrastructures communicantes**.
 
 Il mêle à la fois du développement (web, objet, systèmes), de l’administration système et réseau, de la sécurité informatique, de la virtualisation, et de la gestion de projet.
 
@@ -76,7 +76,7 @@ Le programme est technique, complet, et professionnalisant. L’alternance m’a
 
 ##  Projets à venir sur GitHub
 
-Je vais publier dans les prochaines semaines :
+Je vais publier prochainement :
 - Mon projet de gestion web complet
 - Mon infrastructure réseau Docker (avec explication + schéma)
 - Des scripts Bash et configurations système réutilisables
@@ -86,7 +86,7 @@ Je vais publier dans les prochaines semaines :
 ##  Objectifs post-formation
 
 - Finaliser un site vitrine personnel
-- Passer une certification Docker ou Red Hat
+- Passer une certification Azure
 - Approfondir mes compétences en sécurité (fail2ban, audit réseau)
 - Participer à un projet open-source
 
