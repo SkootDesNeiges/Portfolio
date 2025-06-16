@@ -61,12 +61,12 @@ Le programme est technique, complet, et professionnalisant. L’alternance m’a
 - Gestion des VLANs simulés, règles iptables, surveillance
 
 ### 🔹 Projet d'Automatisation-CI avec GitHub
--Mise en place d’un pipeline d’intégration continue (CI) pour un projet PHP (ou Java) via GitHub Actions
--Étapes automatisées :
-  -Téléchargement des dépendances (Composer/npm)
-  -Exécution des tests unitaires (PHPUnit ou JUnit)
-  -Analyse de qualité du code avec PHPStan, SonarCloud ou Lint
-  -Notification de succès/échec sur les Pull Requests
+- Mise en place d’un pipeline d’intégration continue (CI) pour un projet PHP (ou Java) via GitHub Actions
+- Étapes automatisées :
+  - Téléchargement des dépendances (Composer/npm)
+  - Exécution des tests unitaires (PHPUnit ou JUnit)
+  - Analyse de qualité du code avec PHPStan, SonarCloud ou Lint
+  - Notification de succès/échec sur les Pull Requests
   
 ### 🔹 Application de gestion du personnel
 - PHP/MySQL, interface CRUD, rôles, gestion horaires, export
