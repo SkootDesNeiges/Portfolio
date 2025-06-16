@@ -1,79 +1,95 @@
-# 🎓 Portfolio Étudiant – BUT Informatique
+#  Portfolio – BUT Informatique - Parcours DACDS
 
-**Nom :** Papelier Louis
-**Formation :** BUT Informatique – Parcours DACS
-**Année :** 3ᵉ année – 2024/2025  
-**Statut :** Alternant – Viskase
-
----
-
-## 🧭 Présentation de mon parcours
-
-### 🎯 Objectifs de la formation
-
-Le **BUT Informatique**, parcours **Développement d’Applications Communicantes & Sécurisées**, forme des professionnels capables de :
-
-- Concevoir des applications robustes et maintenables
-- Développer dans différents langages (Java, Python, PHP, JS…)
-- Administrer des systèmes et bases de données
-- Travailler avec les méthodes DevOps et Agile
-
-> ✅ **Cette formation a parfaitement répondu à mes attentes.**  
-Je recherchais une formation concrète et professionnalisante, et le BUT a rempli ce rôle, notamment grâce à l'alternance.
+**Nom :** [Ton Nom]  
+**Formation :** BUT Informatique – Parcours Déploiement d’Applications Communicantes et Sécurisées (DACDS)  
+**Statut :** Étudiant en 3ᵉ année / Alternant chez [Nom de l’entreprise]
 
 ---
 
-## 🧠 Auto-évaluation de mes compétences
+##  Présentation de mon parcours
 
-| Compétence 📚                                                         | Niveau ⭐     | Justification 🔍                                                                                   |
-|----------------------------------------------------------------------|--------------|----------------------------------------------------------------------------------------------------|
-| Développement d'applications (Java, Python, PHP, JS)                 | ⭐⭐⭐⭐☆       | Réalisation de projets complets (ex : gestion du personnel, RPG Java), DS > 16/20.                 |
-| Bases de données (modélisation, SQL)                                 | ⭐⭐⭐⭐⭐       | DS noté 18/20, conception de BDD relationnelles complètes, usage en entreprise.                    |
-| Conception technique (UML, documentation)                            | ⭐⭐⭐⭐☆       | Participation à la conception d’un site e-commerce avec livrables techniques.                     |
-| Développement web (HTML/CSS, JS, PHP, MySQL)                         | ⭐⭐⭐⭐☆       | Site web dynamique avec authentification, formulaires, SQL sécurisé.                              |
-| Linux (administration système, services réseau)                      | ⭐⭐⭐☆        | Configuration de services (DNS, LDAP, Apache), usage quotidien de Debian.                         |
-| Docker / CI / Git                                                    | ⭐⭐⭐⭐☆       | Réseaux Docker multi-conteneurs, GitLab CI/CD, Git en entreprise.                                 |
-| Tests (unitaires, automatisés)                                       | ⭐⭐⭐☆        | Tests unitaires en Python, tests automatisés débutants en Node.js (Jest).                         |
-| Méthodologie agile & travail en équipe                               | ⭐⭐⭐⭐☆       | Utilisation de Scrum sur projets scolaires et en entreprise (sprints, daily meetings).            |
+###  Objectifs de la formation
+
+Le BUT Informatique, parcours **DACDS**, a pour objectif de former des professionnels capables de **concevoir, déployer et sécuriser des applications et des infrastructures communicantes**.
+
+Il mêle à la fois du développement (web, objet, systèmes), de l’administration système et réseau, de la sécurité informatique, de la virtualisation, et de la gestion de projet.
+
+>  **Une formation en parfaite adéquation avec mes attentes.**  
+Le programme est technique, complet, et professionnalisant. L’alternance m’a permis de mettre immédiatement en pratique les compétences acquises à l’IUT.
 
 ---
 
-## 🔧 Projets réalisés
+##  Auto-évaluation de mes compétences
 
-### 🔹 Projet de gestion du personnel (PHP/MySQL)
-- Interface d’inscription/login
-- Authentification avec rôles
-- Gestion des horaires + export CSV
+###  Compétences générales et techniques
 
-### 🔹 Jeu RPG en Java
-- Carte interactive, objets, ennemis
-- GUI avec Swing, système de combat
+| Compétence                                                                 | Niveau ⭐     | Justification                                                                                       |
+|----------------------------------------------------------------------------|--------------|------------------------------------------------------------------------------------------------------|
+| Programmation (Java, PHP, C, JS, Python, Bash)                            | ⭐⭐⭐⭐☆       | Utilisation régulière en projet et en entreprise (site web, scripts d'automatisation, etc.)         |
+| Algorithmique (récursivité, structures de données)                        | ⭐⭐⭐☆        | Projet d’optimisation, bonne maîtrise des parcours, tri, complexité. DS > 15/20                     |
+| Conception objet, UML                                                     | ⭐⭐⭐⭐☆       | Utilisée dans de nombreux projets, bonne maîtrise des diagrammes UML, MVC                          |
+| Tests unitaires (JUnit, PHPUnit)                                          | ⭐⭐⭐☆        | Implémentés dans projets Java/PHP, validation logicielle systématique                              |
+| Gestion de code avec Git                                                  | ⭐⭐⭐⭐⭐       | Utilisé sur tous les projets et en entreprise avec GitLab                                          |
+| Administration Linux (Debian)                                             | ⭐⭐⭐⭐☆       | Utilisation quotidienne en local et en entreprise. Scripting Bash, gestion de services             |
+| Réseaux (protocoles, routage, DNS, DHCP…)                                 | ⭐⭐⭐⭐☆       | Projets Docker multi-services, configuration iptables, DNS, DHCP                                   |
+| Virtualisation, conteneurs (KVM, Docker)                                  | ⭐⭐⭐⭐☆       | Création de VMs avec KVM, conteneurs pour projet complet en réseau Docker                          |
+| Web (HTML, CSS, JS, PHP, MySQL)                                           | ⭐⭐⭐⭐☆       | Développement de sites dynamiques avec authentification, SQL sécurisé, responsive design           |
+| Sécurité informatique                                                     | ⭐⭐⭐☆        | Connaissances en attaques courantes, mise en place de sécurisation minimale (auth, iptables, SSL)  |
+| Gestion de projet (Agile, Gantt, PERT)                                    | ⭐⭐⭐⭐☆       | Utilisation de Scrum à l’IUT et en entreprise, Trello, rédaction de specs et suivi d’avancement    |
+| Documentation, communication                                              | ⭐⭐⭐⭐☆       | Bonne capacité rédactionnelle, docs utilisateurs & techniques remises dans tous les projets        |
 
-### 🔹 Réseau de services Dockerisés
-- Conteneurs : DNS, Mail, Pare-feu, Proxy, Client
-- Simulation d’une petite architecture entreprise
+---
+
+###  Compétences spécifiques DACDS
+
+| Domaine                                           | Compétences travaillées                                                   |
+|--------------------------------------------------|----------------------------------------------------------------------------|
+| **Réseau et administration**                     | Routage, DNS, DHCP, VPN, iptables, NFS, Squid, Samba                      |
+| **Linux avancé**                                 | Scripts Bash, gestion des droits, utilisateurs, stockage, services        |
+| **Protocoles**                                   | TCP/IP, HTTP, ICMP, FTP, DNS, SMTP, IMAP, POP                             |
+| **Services & déploiement**                       | Apache, NGINX, LDAP, PostgreSQL, MySQL, CI/CD                             |
+| **Cloud / Virtualisation**                       | Docker, KVM, IaaS, PaaS, SaaS, clustering, PRA/PCA                        |
+| **Supervision et configuration**                 | Déploiement automatisé, gestion de configuration, HA                     |
+| **Logiciels libres & sécurité**                  | Git, GLPI, sauvegardes, sécurité des serveurs, pare-feu, SSL              |
+
+---
+
+##  Projets réalisés
+
+### 🔹 Projet Réseau Dockerisé (ASRALL 2024)
+- Réseau avec conteneurs : DNS, Squid, Mail, Client, Pare-feu
+- Gestion des VLANs simulés, règles iptables, surveillance
+
+### 🔹 Application de gestion du personnel
+- PHP/MySQL, interface CRUD, rôles, gestion horaires, export
+- Authentification avec session sécurisée
+
+### 🔹 Serveur Minecraft modé (NeoForge)
+- Construction d’une stack modifiée pour aventure/survie
+- Configuration des mods et hébergement
 
 ### 🔹 Tests de charge avec Locust
-- Simulation de trafic utilisateur
-- Analyse de performance d’un site e-commerce
+- Génération de trafic pour test de robustesse d’un site web
+- Analyse de la bande passante et des goulets d’étranglement
 
 ---
 
-## 🌐 Présence en ligne
+##  Projets à venir sur GitHub
 
-Je ne dispose **pas encore d’un GitHub complet ni de site portfolio**, mais je prévois de :
-- Créer un dépôt par projet avec README, captures d’écran, instructions
-- Développer un petit site vitrine (HTML/CSS) hébergé sur GitHub Pages
-
----
-
-## 🎯 Objectifs à venir
-
-- Finaliser mon profil GitHub (projets, README, structure claire)
-- Créer un site portfolio personnel
-- Approfondir mes compétences en cybersécurité et cloud computing
-- Préparer une certification technique (Docker, Azure, Java)
+Je vais publier dans les prochaines semaines :
+- Mon projet de gestion web complet
+- Mon infrastructure réseau Docker (avec explication + schéma)
+- Des scripts Bash et configurations système réutilisables
 
 ---
 
-> *Merci de votre lecture. N’hésitez pas à me contacter pour plus d’informations ou pour consulter mes projets une fois publiés !*
+##  Objectifs post-formation
+
+- Finaliser un site vitrine personnel
+- Passer une certification Docker ou Red Hat
+- Approfondir mes compétences en sécurité (fail2ban, audit réseau)
+- Participer à un projet open-source
+
+---
+
+> *Merci pour votre lecture. Contactez-moi pour toute information complémentaire ou pour collaborer !*
