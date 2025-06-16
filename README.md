@@ -40,7 +40,7 @@ Le programme est technique, complet, et professionnalisant. L’alternance m’a
 
 ---
 
-###  Compétences spécifiques DACDS
+###  Compétences spécifiques DACS
 
 | Domaine                                           | Compétences travaillées                                                   |
 |--------------------------------------------------|----------------------------------------------------------------------------|
